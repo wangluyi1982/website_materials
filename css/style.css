@@ -76,7 +76,7 @@ h2{
 }
 
 #intro{
-	background: url(images/bubbles2.png), url(images/bubbles2.png), url(images/bubbles1.png), url(images/fourthBG.jpg);
+	background: url(https://raw.github.com/wangluyi1982/website_materials/master/images/bubbles2.png), url(https://raw.github.com/wangluyi1982/website_materials/master/images/bubbles2.png), url(https://raw.github.com/wangluyi1982/website_materials/master/images/bubbles1.png), url(https://raw.github.com/wangluyi1982/website_materials/master/images/fourthBG.jpg);
 	background-position: 50% 0, 50% 0, 50% 0, 50% 0;
 	background-color: #036;
 	background-attachment: fixed;
@@ -87,7 +87,7 @@ h2{
 }
 
 #beyond{
-	background:url(https://lh5.googleusercontent.com/-Am61j8rYEzA/UZw8hE9NYwI/AAAAAAAAFtE/onJQclspdsk/w544-h841-no/beyonggsdghetageah.jpg) 50% 0 no-repeat fixed;
+	background:url(https://raw.github.com/wangluyi1982/website_materials/master/images/beyond.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 600px;
 	margin: 0;
@@ -95,7 +95,7 @@ h2{
 }
 
 #singtofriends{
-	background: url(https://lh3.googleusercontent.com/-sSwDy6SIQSc/UZxAbzd61YI/AAAAAAAAFtk/uRuZvaRb85M/w670-h841-no/Poster+v2.jpg) 50% 0 no-repeat fixed;
+	background: url(https://raw.github.com/wangluyi1982/website_materials/master/images/singtofriends.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 1300px;
 	margin: 0 auto;
@@ -115,17 +115,17 @@ h2{
 }
 */
 #lizhi{
-	background: url(https://lh6.googleusercontent.com/-xrMvBRPGVP8/UZw_SguzUEI/AAAAAAAAFtU/7dvTWnmFTsI/w594-h841-no/%25E9%2587%2591%25E8%2589%25B2%25E5%258A%25A0%25E5%25B7%259E.jpg) 50% 0 no-repeat fixed;
+	background: url(https://raw.github.com/wangluyi1982/website_materials/master/images/lizhi.jpg) 50% 0 no-repeat fixed;
 	color: white;
 	height: 650px;
 	padding: 100px 0 0 0;	
 }
 
 #doremi{
-	background: #ccc;
-	height: 1000px;
-	margin: 0 auto;
-	padding: 40px 0 0 0;
+	background: url(https://raw.github.com/wangluyi1982/website_materials/master/images/2n2hbt.jpg) 50% 0 no-repeat fixed;
+	color: white;
+	height: 650px;
+	padding: 100px 0 0 0;	
 }
 
 .story{
